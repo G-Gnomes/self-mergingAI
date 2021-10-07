@@ -1,1 +1,1 @@
-# self-mergingAI
+# Self-MergingAI
